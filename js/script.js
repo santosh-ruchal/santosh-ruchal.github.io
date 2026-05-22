@@ -20,7 +20,7 @@ function closeMenu() {
 
 // Event Listeners: Handling toggle event
 const toggleSwitch = document.querySelector(
-  '.theme-switch input[type="checkbox"]'
+  '.theme-switch input[type="checkbox"]',
 );
 
 function switchTheme(e) {
